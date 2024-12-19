@@ -1,0 +1,15 @@
+.over{
+	overflow: hidden;
+}
+.box{
+	height: 100px;
+	background-color: red;
+}
+.mh{
+	min-height: 500px;
+	background-color: blue;
+}
+.bg{
+	background-color: yellow;
+	
+}
